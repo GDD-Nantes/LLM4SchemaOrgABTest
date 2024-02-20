@@ -1,0 +1,45 @@
+{
+	"@context": "https://schema.org/",
+	"@type": "Article",
+	"articleSection": "Gesundheit",
+	"author": {
+		"@type": "Person",
+		"name": "Fernarzt Redaktion"
+	},
+	"dateModified": "2021-09-07",
+	"datePublished": "2021-09-07",
+	"description": "Ursachen, Risiken, Diagnose & Behandlung",
+	"headline": "Bluthochdruck (Hypertonie)",
+	"image": {
+		"@type": "ImageObject",
+		"url": "https://images.ctfassets.net/9nu7qkjcp5l0/6xKH4NUaLTtC3nWKb69k8y/86dc80392fda960acef7097cdab6245b/Fernarzt-Faktencheck-Bluthochdruck-Infografik.png",
+		"height": 0,
+		"width": 0
+	},
+	"mainEntityOfPage": "https://www.fernarzt.com/behandlungen/bluthochdruck/",
+	"name": "Bluthochdruck (Hypertonie)",
+	"potentialAction": {
+		"@type": "ReadAction",
+		"target": {
+			"@type": "EntryPoint",
+			"urlTemplate": "https://www.fernarzt.com/behandlungen/bluthochdruck/",
+			"inLanguage": "de",
+			"actionPlatform": [
+				"http://schema.org/DesktopWebPlatform",
+				"http://schema.org/IOSPlatform",
+				"http://schema.org/AndroidPlatform"
+			]
+		}
+	},
+	"publisher": {
+		"@type": "Organization",
+		"name": "Fernarzt",
+		"logo": {
+			"@type": "ImageObject",
+			"url": "https://www.fernarzt.com/favicon.ico",
+			"width": 16,
+			"height": 16
+		}
+	},
+	"url": "https://www.fernarzt.com/behandlungen/bluthochdruck/"
+}

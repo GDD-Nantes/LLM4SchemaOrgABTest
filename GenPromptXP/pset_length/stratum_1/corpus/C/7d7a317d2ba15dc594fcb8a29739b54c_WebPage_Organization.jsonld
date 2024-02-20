@@ -1,0 +1,104 @@
+{
+	"@context": "https://schema.org",
+	"@type": [
+		"WebPage",
+		"Organization"
+	],
+	"contactPoint": {
+		"@type": "ContactPoint",
+		"contactType": "Contact Us",
+		"url": "http://juliabrimedwardsportlandschools.com/contact-us/"
+	},
+	"description": "Julia Brim-Edwards is the leader we need in these times. She brings committed and experienced leadership to the Portland School Board and will listen to and work with students, parents, and staff, help us navigate through the Covid pandemic challenges, and support the equitable success of Portland students. She is independent, student-focused and accountable.",
+	"image": [
+		"http://juliabrimedwardsportlandschools.com/wp-content/uploads/2017/03/slide1-4.jpg",
+		"http://juliabrimedwardsportlandschools.com/wp-content/uploads/2021/04/Website-Graphics.png"
+	],
+	"logo": "http://www.juliaforportlandschoolboard.com/wp-content/uploads/2020/08/Updated-Logo.png",
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"breadcrumb": {
+			"@type": "BreadcrumbList",
+			"itemListElement": [
+				{
+					"@type": "ListItem",
+					"position": 1,
+					"name": "Home",
+					"item": "http://juliabrimedwardsportlandschools.com/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 2,
+					"name": "About Julia",
+					"item": "http://juliabrimedwardsportlandschools.com/about-julia/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 3,
+					"name": "Others Talk, Julia Delivers!",
+					"item": "http://juliabrimedwardsportlandschools.com/others-talk-julia-delivers/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 4,
+					"name": "Endorsements",
+					"item": "http://juliabrimedwardsportlandschools.com/endorsements/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 5,
+					"name": "In the News",
+					"item": "http://juliabrimedwardsportlandschools.com/julia-in-the-news/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 6,
+					"name": "Contact Us",
+					"item": "http://juliabrimedwardsportlandschools.com/contact-us/"
+				},
+				{
+					"@type": "ListItem",
+					"position": 7,
+					"name": "Donate",
+					"item": "https://secure.c-esystems.com/juliabrimedwards/donation.aspx"
+				},
+				{
+					"@type": "ListItem",
+					"position": 8,
+					"name": "Climate Strike",
+					"item": "http://juliabrimedwardsportlandschools.com/climate-action/"
+				}
+			]
+		}
+	},
+	"name": "Julia Brim-Edwards | Portland School Board",
+	"sameAs": [
+		"https://www.facebook.com/JuliaBrimedwardsPortlandSchoolBoard"
+	],
+	"sponsor": {
+		"@type": "Organization",
+		"name": "Julia for School Board",
+		"url": "https://secure.c-esystems.com/juliabrimedwards/donation.aspx"
+	},
+	"subjectOf": [
+		{
+			"@type": "NewsArticle",
+			"headline": "PPS Board member Julia Brim-Edwards was reelected alongside two new school board members: Herman Greene and Gary Hollands.",
+			"sourceOrganization": "Willamette Week",
+			"url": "https://www.wweek.com/news/city/2021/05/18/portland-election-night-sees-two-new-school-board-members-history-museum-levy-renewed/"
+		},
+		{
+			"@type": "NewsArticle",
+			"headline": "Oregon school board results: Voters choose some new faces, others stick with incumbents",
+			"sourceOrganization": "OPB",
+			"url": "https://www.opb.org/article/2021/05/19/oregon-school-board-results-voters-choose-some-new-faces-others-stick-with-incumbents/"
+		},
+		{
+			"@type": "NewsArticle",
+			"headline": "Voters re-elect Brim-Edwards to PPS board, renew OHS levy; other races",
+			"sourceOrganization": "KATU",
+			"url": "https://www.katu.com/news/local/voters-re-elect-brim-edwards-for-pps-board-renew-ohs-levy-other-races"
+		}
+	],
+	"url": "http://juliabrimedwardsportlandschools.com/"
+}

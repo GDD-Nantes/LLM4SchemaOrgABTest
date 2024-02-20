@@ -1,0 +1,31 @@
+{
+	"@context": "https://schema.org",
+	"@type": "ScholarlyArticle",
+	"author": "Joris Slaets",
+	"datePublished": "2019-09-06",
+	"description": "Een opvallend boek met een knalgroene kaft, op mooi papier gedrukt met vele, paginagrote portretfoto’s. Een frisse verschijning over het wel en wee van honderdplussers in onze samenleving.",
+	"headline": "Boekbespreking: Geluk en verdriet horen bij 100% leven",
+	"image": "https://gerontijdschrift.nl/wp-content/uploads/sites/3/2019/09/Boekbespreking-Witter-omslag-213x300.jpg",
+	"inLanguage": "nl",
+	"isAccessibleForFree": false,
+	"isPartOf": {
+		"@type": [
+			"PublicationVolume",
+			"PublicationIssue"
+		],
+		"volumeNumber": "21",
+		"issueNumber": "2"
+	},
+	"keywords": "Honderdplussers, Levenservaring, Portretten, Verhalen",
+	"name": "100% leven; levenslessen van honderdplussers",
+	"pageEnd": "72",
+	"pageStart": "1",
+	"pagination": "1-72",
+	"publisher": {
+		"@type": "Organization",
+		"name": "Uitgeverij SWP",
+		"location": "Amsterdam"
+	},
+	"url": "https://gerontijdschrift.nl/artikelen/boekbespreking-geluk-en-verdriet-horen-bij-100-leven/",
+	"wordCount": "500"
+}

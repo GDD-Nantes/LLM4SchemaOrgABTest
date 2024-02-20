@@ -1,0 +1,55 @@
+{
+	"@context": "https://schema.org/",
+	"@type": "Article",
+	"articleBody": "Bluthochdruck, auch bekannt als Hypertonie, ist eine Erkrankung, bei der der Druck in den Arterien dauerhaft zu hoch ist. Dies kann zu verschiedenen Gesundheitsproblemen führen, darunter Herzkrankheiten, Schlaganfall und Nierenschäden. Die Behandlung von Bluthochdruck umfasst oft Lebensstiländerungen und Medikamente.",
+	"author": {
+		"@type": "Person",
+		"name": "Fernarzt Team",
+		"url": "/ueber-uns/autoren/"
+	},
+	"dateModified": "2021-09-07",
+	"datePublished": "2020-05-20",
+	"description": "Bluthochdruck wird auch als Hypertonie bezeichnet und kann zu einer Vielzahl von Folgeerkrankungen führen. Erfahren Sie mehr über Ursachen, Risiken, Diagnose und Behandlungsmöglichkeiten.",
+	"educationalUse": "Information",
+	"headline": "Bluthochdruck (Hypertonie): Ursachen, Risiken, Diagnose & Behandlung",
+	"image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
+	"isAccessibleForFree": "true",
+	"isBasedOnUrl": "https://www.fernarzt.com/behandlungen/bluthochdruck/",
+	"keywords": "Bluthochdruck, Hypertonie, Gesundheit, Behandlung, Diagnose, Risiken, Ursachen",
+	"mainEntityOfPage": {
+		"@type": "WebPage",
+		"@id": "https://www.fernarzt.com/behandlungen/bluthochdruck/"
+	},
+	"mentions": [
+		{
+			"@type": "MedicalCondition",
+			"name": "Herzkrankheiten"
+		},
+		{
+			"@type": "MedicalCondition",
+			"name": "Schlaganfall"
+		},
+		{
+			"@type": "MedicalCondition",
+			"name": "Nierenschäden"
+		}
+	],
+	"publisher": {
+		"@type": "Organization",
+		"name": "Fernarzt",
+		"url": "/"
+	},
+	"review": {
+		"@type": "Review",
+		"author": {
+			"@type": "Person",
+			"name": "Dr. Maja Sukalo"
+		},
+		"datePublished": "2021-09-07",
+		"reviewBody": "Dieser Artikel bietet eine umfassende Übersicht über Bluthochdruck, einschließlich der Ursachen, Risiken und Behandlungsmöglichkeiten. Sehr informativ und hilfreich.",
+		"reviewRating": {
+			"@type": "Rating",
+			"ratingValue": "5"
+		}
+	}
+}

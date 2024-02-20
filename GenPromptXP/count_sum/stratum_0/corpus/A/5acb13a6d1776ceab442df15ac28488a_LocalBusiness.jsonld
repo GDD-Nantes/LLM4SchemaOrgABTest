@@ -1,0 +1,23 @@
+{
+    "@context": "http://schema.org",
+    "@type": "LocalBusiness",
+    "contactPoint": {
+        "contactType": "Customer service",
+        "@type": "ContactPoint",
+        "telephone": "+1-650-630-5881"
+    },
+    "founders": {
+        "name": "Ben Tehrani",
+        "@type": "Person"
+    },
+    "image": "https://collegemoversusa.com/images/ss_truck2.webp",
+    "name": "College Movers USA",
+    "sameAs": [
+        "http://www.yelp.com/biz/college-movers-san-mateo-2",
+        "https://college-movers-usa.business.site/",
+        "http://www.yelp.com/biz/college-movers-usa-san-mateo-11",
+        "https://www.facebook.com/College-movers-usa-153998664746236/"
+    ],
+    "telephone": "+1-650-630-5881",
+    "url": "https://collegemoversusa.com/location/local/tracy"
+}

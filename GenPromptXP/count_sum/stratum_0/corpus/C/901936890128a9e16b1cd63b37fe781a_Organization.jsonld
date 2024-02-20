@@ -1,0 +1,73 @@
+{
+	"@context": "https://schema.org",
+	"@type": "Organization",
+	"description": "Gameroco.com is a website that offers thousands of online games for free to game lovers. Gameroco.com is a game site that aims to have fun with the latest and popular games by constantly improving itself.",
+	"email": "support@gameroco.com",
+	"hasOfferCatalog": {
+		"@type": "OfferCatalog",
+		"name": "Online Games Catalog",
+		"itemListElement": [
+			{
+				"@type": "Offer",
+				"itemOffered": {
+					"@type": "Game",
+					"name": "Bleach vs Naruto series",
+					"url": "https://www.gameroco.com/bleach-vs-naruto/"
+				}
+			}
+		]
+	},
+	"logo": "https://www.gameroco.com/uploads/logo.png",
+	"memberOf": {
+		"@type": "ProgramMembership",
+		"programName": "Gameroco.com game lovers family",
+		"hostingOrganization": {
+			"@type": "Organization",
+			"name": "Gameroco.com"
+		}
+	},
+	"name": "Gameroco",
+	"sameAs": [
+		"https://www.caringgames.com",
+		"https://www.narutovsbleach.com"
+	],
+	"slogan": "Gaming is easy with Gameroco.com",
+	"subjectOf": [
+		{
+			"@type": "Game",
+			"name": "Bleach vs Naruto 3.3",
+			"url": "https://www.gameroco.com/fighting/bleach-vs-naruto-33.html"
+		},
+		{
+			"@type": "Game",
+			"name": "Bleach vs Naruto 2.6",
+			"url": "https://www.gameroco.com/fighting/bleach-vs-naruto-26.html"
+		},
+		{
+			"@type": "Game",
+			"name": "Shell Shockers 2",
+			"url": "https://www.gameroco.com/shooting/shell-shockers-2.html"
+		},
+		{
+			"@type": "Game",
+			"name": "Bad Ice Cream 4",
+			"url": "https://www.gameroco.com/arcade/bad-ice-cream-4.html"
+		},
+		{
+			"@type": "Game",
+			"name": "Anime Battle 4.2",
+			"url": "https://www.gameroco.com/fighting/anime-battle-42.html"
+		},
+		{
+			"@type": "Game",
+			"name": "Anime Battle 4.3",
+			"url": "https://www.gameroco.com/fighting/anime-battle-43.html"
+		},
+		{
+			"@type": "Game",
+			"name": "Paper.io 3",
+			"url": "https://www.gamerocco.com/arcade/paperio-3.html"
+		}
+	],
+	"url": "https://www.gameroco.com"
+}
