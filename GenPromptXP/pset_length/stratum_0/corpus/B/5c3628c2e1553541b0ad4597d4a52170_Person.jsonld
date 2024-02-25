@@ -1,5 +1,5 @@
 {
-	"@context": "https://schema.org",
-	"@type": "Person",
-	"name": "Andreas Reiners"
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Andreas Reiners"
 }

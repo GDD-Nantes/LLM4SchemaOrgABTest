@@ -1,110 +1,98 @@
 {
-	"@context": "https://schema.org",
-	"@type": "Service",
-	"areaServed": "CA",
-	"availableChannel": {
-		"@type": "ServiceChannel",
-		"serviceUrl": "https://www.spaceo.ca",
-		"servicePhone": "+1(437)488-7337",
-		"serviceSmsNumber": "+1(437)488-7337",
-		"availableLanguage": [
-			"English"
-		]
-	},
-	"award": "100+ Happy Clients Worldwide, 300+ Projects Completed Successfully, 65% Repeated & Referral Business",
-	"category": "Information Technology",
-	"description": "Consultation session, discuss your idea, get it validated, and start developing your next web solution. Hire Skilled PHP Developers. Follow 6 Simple Steps To Hire PHP Developers: Build your extended team for your PHP software development in just 24 hours.",
-	"hasOfferCatalog": {
-		"@type": "OfferCatalog",
-		"name": "PHP Development Services",
-		"itemListElement": [
-			{
-				"@type": "Offer",
-				"itemOffered": {
-					"@type": "Service",
-					"name": "Schedule A Call",
-					"description": "Book your 30-mins free consultation through the contact us form."
-				}
-			},
-			{
-				"@type": "Offer",
-				"itemOffered": {
-					"@type": "Service",
-					"name": "Requirement Discussion",
-					"description": "We understand your idea, goals, and results you want to achieve."
-				}
-			},
-			{
-				"@type": "Offer",
-				"itemOffered": {
-					"@type": "Service",
-					"name": "Resume Screening",
-					"description": "Screen the resumes of PHP developers based on the technical skills your project requires."
-				}
-			},
-			{
-				"@type": "Offer",
-				"itemOffered": {
-					"@type": "Service",
-					"name": "Interview Team Members",
-					"description": "Take a technical interview with a web developer to know the communication skills, specific skills, gaps, and proficiencies."
-				}
-			},
-			{
-				"@type": "Offer",
-				"itemOffered": {
-					"@type": "Service",
-					"name": "Hiring & NDA Signing",
-					"description": "Discuss the payment structure, engagement model, and working hours with you. Then we sign an NDA to protect your idea and sensitive information."
-				}
-			},
-			{
-				"@type": "Offer",
-				"itemOffered": {
-					"@type": "Service",
-					"name": "PHP Development",
-					"description": "Conduct a meeting with the developers and allocate a project manager who will be in touch with you throughout the PHP development process."
-				}
-			}
-		]
-	},
-	"image": [
-		"data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-		"https://www.spaceo.ca/wp-content/uploads/2020/12/email-icon.png",
-		"https://www.spaceo.ca/wp-content/uploads/2021/12/ajax-loader.gif"
-	],
-	"name": "PHP Development Services",
-	"privacyPolicy": "/privacy-policy/",
-	"provider": {
-		"@type": "Organization",
-		"name": "Space-O Technologies",
-		"url": "https://www.spaceo.ca",
-		"logo": "https://www.spaceo.ca/wp-content/uploads/2020/12/email-icon.png",
-		"contactPoint": {
-			"@type": "ContactPoint",
-			"telephone": "+1(437)488-7337",
-			"contactType": "customer service",
-			"areaServed": "CA",
-			"availableLanguage": [
-				"English"
-			]
-		},
-		"sameAs": [
-			"https://www.facebook.com/SpaceoCA/",
-			"https://www.linkedin.com/company/space-o-canada",
-			"https://twitter.com/SpaceoCanada"
-		]
-	},
-	"review": {
-		"@type": "Review",
-		"author": {
-			"@type": "Person",
-			"name": "Ashish Fernandez",
-			"description": "Space-O understood our expectations and were receptive to feedback. The team always resolved problems within 12 hours. The app earned positive feedback and a 400% increase in the number of user. Effective QA and QC made development seamless and efficient. The team was communicative and available on available to work on weekends as needed. Bug fixes were always completed within 12-hour time-frame."
-		}
-	},
-	"serviceType": "Web Development",
-	"slogan": "Your Dream Project is Just a Click Away. Collaborate with the best in the industry.",
-	"termsOfService": "/terms-and-conditions/",
-	"url": "https://www.spaceo.ca"
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "areaServed": "CA",
+    "availableChannel": {
+        "@type": "ServiceChannel",
+        "availableLanguage": [
+            "English"
+        ],
+        "servicePhone": null
+    },
+    "description": "Consultation session, discuss your idea, get it validated, and start developing your next web solution. Hire Skilled PHP Developers. Follow 6 Simple Steps To Hire PHP Developers: Build your extended team for your PHP software development in just 24 hours.",
+    "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "itemListElement": [
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "description": "Book your 30-mins free consultation through the contact us form."
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "description": "We understand your idea, goals, and results you want to achieve."
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "description": "Screen the resumes of PHP developers based on the technical skills your project requires.",
+                    "name": "Resume Screening"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "description": "Take a technical interview with a web developer to know the communication skills, specific skills, gaps, and proficiencies.",
+                    "name": "Interview Team Members"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "description": "Discuss the payment structure, engagement model, and working hours with you. Then we sign an NDA to protect your idea and sensitive information.",
+                    "name": "Hiring & NDA Signing"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "description": "Conduct a meeting with the developers and allocate a project manager who will be in touch with you throughout the PHP development process.",
+                    "name": "PHP Development"
+                }
+            }
+        ],
+        "name": "PHP Development Services"
+    },
+    "image": [
+        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
+        "https://www.spaceo.ca/wp-content/uploads/2021/12/ajax-loader.gif"
+    ],
+    "name": "PHP Development Services",
+    "privacyPolicy": "/privacy-policy/",
+    "provider": {
+        "@type": "Organization",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "areaServed": "CA",
+            "availableLanguage": [
+                "English"
+            ],
+            "contactType": "customer service",
+            "telephone": null
+        },
+        "name": "Space-O Technologies",
+        "sameAs": [],
+        "url": null
+    },
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person",
+            "description": "Space-O understood our expectations and were receptive to feedback. The team always resolved problems within 12 hours. The app earned positive feedback and a 400% increase in the number of user. Effective QA and QC made development seamless and efficient. The team was communicative and available on available to work on weekends as needed. Bug fixes were always completed within 12-hour time-frame.",
+            "name": "Ashish Fernandez"
+        }
+    },
+    "serviceType": "Web Development",
+    "slogan": "Your Dream Project is Just a Click Away. Collaborate with the best in the industry.",
+    "termsOfService": "/terms-and-conditions/",
+    "url": null
 }

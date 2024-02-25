@@ -1,33 +1,28 @@
-{
-    "@context": "http://schema.org",
-    "@type": "Organization",
-    "contactPoint": {
-        "url": "https://www.gameroco.com/contact",
-        "contactType": "User Feedback",
-        "email": "info@gameroco.com",
-        "@type": "ContactPoint"
-    },
-    "description": "You can access the most popular free games with gameroco. Get ready for fun-filled moments with Gameroco.",
-    "email": "info@gameroco.com",
-    "founder": {
-        "@type": "Person",
-        "jobTitle": "CEO",
-        "gender": "Male",
-        "name": "Emre OZAYDIN"
-    },
-    "foundingDate": "2019-05-15",
-    "location": {
-        "addressRegion": "Ankara",
-        "addressCountry": "TR",
-        "@type": "PostalAddress",
-        "postalCode": "06930"
-    },
-    "logo": "https://www.gameroco.com/uploads/logo.png",
-    "name": "Game Roco",
-    "sameAs": [
-        "https://www.gameroco.com/about-us",
-        "https://www.instagram.com/gamerocom/",
-        "https://www.facebook.com/gamerocom/"
-    ],
-    "url": "https://www.gameroco.com/"
-}
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "contactPoint": {
+            "@type": "ContactPoint",
+            "contactType": "User Feedback",
+            "email": null,
+            "url": "https://www.gameroco.com/contact"
+        },
+        "description": "You can access the most popular free games with gameroco. Get ready for fun-filled moments with Gameroco.",
+        "founder": {
+            "@type": "Person",
+            "gender": "Male",
+            "jobTitle": "CEO"
+        },
+        "foundingDate": "2019-05-15",
+        "location": {
+            "@type": "PostalAddress"
+        },
+        "logo": "https://www.gameroco.com/uploads/logo.png",
+        "name": "Game Roco",
+        "sameAs": [
+            "https://www.gameroco.com/about-us"
+        ],
+        "url": "https://www.gameroco.com/"
+    }
+]

@@ -1,27 +1,25 @@
 {
-	"@context": "https://schema.org/",
-	"@type": "Article",
-	"about": {
-		"@type": "Event",
-		"name": "2002 Fiesta Bowl"
-	},
-	"articleSection": "History",
-	"author": {
-		"@type": "Person",
-		"name": "FishDuck Staff"
-	},
-	"datePublished": "2012-01-19",
-	"description": "Oregon’s 2002 Fiesta Bowl Victory, the conclusion.",
-	"headline": "Reactions following 2002 Fiesta Bowl Victory, Part 2: Justin Phinisee interview",
-	"image": "http://fishduck.com/wp-content/uploads/2012/10/FIESTABOWLCOL.jpg",
-	"mainEntityOfPage": {
-		"@type": "WebPage",
-		"url": "https://fishduck.com/2012/01/reactions-following-2002-fiesta-bowl-victory-part-2-justin-phinisee-interview/"
-	},
-	"name": "Reactions following 2002 Fiesta Bowl Victory, Part 2: Justin Phinisee interview",
-	"publisher": {
-		"@type": "Organization",
-		"name": "FishDuck"
-	},
-	"url": "https://fishduck.com/2012/01/reactions-following-2002-fiesta-bowl-victory-part-2-justin-phinisee-interview/"
+    "@context": "https://schema.org/",
+    "@type": "Article",
+    "about": {
+        "@type": "Event",
+        "name": "2002 Fiesta Bowl"
+    },
+    "articleSection": "History",
+    "author": {
+        "@type": "Person"
+    },
+    "datePublished": "2012-01-19",
+    "description": "Oregon\u2019s 2002 Fiesta Bowl Victory, the conclusion.",
+    "headline": "Reactions following 2002 Fiesta Bowl Victory, Part 2: Justin Phinisee interview",
+    "mainEntityOfPage": {
+        "@type": "WebPage",
+        "url": "https://fishduck.com/2012/01/reactions-following-2002-fiesta-bowl-victory-part-2-justin-phinisee-interview/"
+    },
+    "name": "Reactions following 2002 Fiesta Bowl Victory, Part 2: Justin Phinisee interview",
+    "publisher": {
+        "@type": "Organization",
+        "name": "FishDuck"
+    },
+    "url": "https://fishduck.com/2012/01/reactions-following-2002-fiesta-bowl-victory-part-2-justin-phinisee-interview/"
 }

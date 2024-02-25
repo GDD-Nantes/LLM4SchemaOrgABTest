@@ -1,52 +1,51 @@
 {
-	"@context": "https://schema.org",
-	"@type": "Review",
-	"author": {
-		"@type": "Organization",
-		"name": "Ana Royal Intl. Co.",
-		"url": "https://anasaffron.com/"
-	},
-	"datePublished": "2020-11-29",
-	"itemReviewed": {
-		"@type": "Product",
-		"name": "Saffron",
-		"image": [
-			"http://anasaffron.com/wp-content/uploads/2020/11/saffronfood1-300x200.jpg",
-			"https://anasaffron.com/wp-content/uploads/2022/01/Safran-2-2-300x300.webp",
-			"https://anasaffron.com/wp-content/uploads/2022/01/Safran-19-1-219x300.webp",
-			"https://anasaffron.com/wp-content/uploads/2022/01/Safran-13-1-300x202.webp",
-			"https://anasaffron.com/wp-content/uploads/2022/01/Safran-12-1-300x300.webp",
-			"https://anasaffron.com/wp-content/uploads/2022/01/Safran-11-1-300x296.webp"
-		],
-		"description": "Iranian saffron supplied by Ana Qayen, known for its quality and used in various foods, sweets, and drinks. Ana Qayen supplies saffron from the best fields in Iran, offering a range of luxurious packaging options for both retail and bulk purchases.",
-		"brand": "Ana Qayen",
-		"offers": {
-			"@type": "Offer",
-			"url": "https://anasaffron.com/product-category/buy-saffron-online/"
-		},
-		"additionalProperty": [
-			{
-				"@type": "PropertyValue",
-				"name": "Packaging",
-				"value": "Available in different and luxurious packages"
-			},
-			{
-				"@type": "PropertyValue",
-				"name": "Certification",
-				"value": "European certificate from SAI CHIMIE lab"
-			}
-		]
-	},
-	"publisher": {
-		"@type": "Organization",
-		"name": "Ana Qayen Saffron",
-		"url": "https://anasaffron.com/"
-	},
-	"reviewBody": "Ana Qayen is a premier supplier of Iranian saffron, offering high-quality saffron in various luxurious packaging. Their saffron, known for its rich color and aroma, is used in a wide range of culinary applications around the world. With a European quality certificate, Ana Qayen ensures the best saffron experience for both culinary professionals and enthusiasts.",
-	"reviewRating": {
-		"@type": "Rating",
-		"ratingValue": "5",
-		"bestRating": "5"
-	},
-	"url": "https://anasaffron.com/saffron-foods/"
+    "@context": "https://schema.org",
+    "@type": "Review",
+    "author": {
+        "@type": "Organization",
+        "name": "Ana Royal Intl. Co.",
+        "url": "https://anasaffron.com/"
+    },
+    "datePublished": "2020-11-29",
+    "itemReviewed": {
+        "@type": "Product",
+        "additionalProperty": [
+            {
+                "@type": "PropertyValue",
+                "name": "Packaging",
+                "value": "Available in different and luxurious packages"
+            },
+            {
+                "@type": "PropertyValue",
+                "name": "Certification",
+                "value": "European certificate from SAI CHIMIE lab"
+            }
+        ],
+        "brand": "Ana Qayen",
+        "description": "Iranian saffron supplied by Ana Qayen, known for its quality and used in various foods, sweets, and drinks. Ana Qayen supplies saffron from the best fields in Iran, offering a range of luxurious packaging options for both retail and bulk purchases.",
+        "image": [
+            "http://anasaffron.com/wp-content/uploads/2020/11/saffronfood1-300x200.jpg",
+            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-2-2-300x300.webp",
+            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-19-1-219x300.webp",
+            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-13-1-300x202.webp",
+            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-12-1-300x300.webp",
+            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-11-1-300x296.webp"
+        ],
+        "name": "Saffron",
+        "offers": {
+            "@type": "Offer",
+            "url": "https://anasaffron.com/product-category/buy-saffron-online/"
+        }
+    },
+    "publisher": {
+        "@type": "Organization",
+        "name": "Ana Qayen Saffron",
+        "url": "https://anasaffron.com/"
+    },
+    "reviewBody": "Ana Qayen is a premier supplier of Iranian saffron, offering high-quality saffron in various luxurious packaging. Their saffron, known for its rich color and aroma, is used in a wide range of culinary applications around the world. With a European quality certificate, Ana Qayen ensures the best saffron experience for both culinary professionals and enthusiasts.",
+    "reviewRating": {
+        "@type": "Rating",
+        "ratingValue": null
+    },
+    "url": "https://anasaffron.com/saffron-foods/"
 }
