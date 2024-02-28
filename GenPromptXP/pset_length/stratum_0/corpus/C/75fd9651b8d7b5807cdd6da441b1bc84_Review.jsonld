@@ -1,51 +1,26 @@
 {
-    "@context": "https://schema.org",
+    "@context": "https://schema.org/",
     "@type": "Review",
     "author": {
-        "@type": "Organization",
-        "name": "Ana Royal Intl. Co.",
-        "url": "https://anasaffron.com/"
+        "@type": "Person",
+        "name": "Admin",
+        "url": "https://anasaffron.com/author/root/"
     },
     "datePublished": "2020-11-29",
     "itemReviewed": {
         "@type": "Product",
-        "additionalProperty": [
-            {
-                "@type": "PropertyValue",
-                "name": "Packaging",
-                "value": "Available in different and luxurious packages"
-            },
-            {
-                "@type": "PropertyValue",
-                "name": "Certification",
-                "value": "European certificate from SAI CHIMIE lab"
-            }
-        ],
-        "brand": "Ana Qayen",
-        "description": "Iranian saffron supplied by Ana Qayen, known for its quality and used in various foods, sweets, and drinks. Ana Qayen supplies saffron from the best fields in Iran, offering a range of luxurious packaging options for both retail and bulk purchases.",
-        "image": [
-            "http://anasaffron.com/wp-content/uploads/2020/11/saffronfood1-300x200.jpg",
-            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-2-2-300x300.webp",
-            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-19-1-219x300.webp",
-            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-13-1-300x202.webp",
-            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-12-1-300x300.webp",
-            "https://anasaffron.com/wp-content/uploads/2022/01/Safran-11-1-300x296.webp"
-        ],
-        "name": "Saffron",
-        "offers": {
-            "@type": "Offer",
-            "url": "https://anasaffron.com/product-category/buy-saffron-online/"
-        }
+        "description": "Iranian saffron known for its quality and aroma, used in various dishes, sweets, and drinks for coloring and flavoring.",
+        "image": "http://anasaffron.com/wp-content/uploads/2020/11/saffronfood1-300x200.jpg",
+        "name": "Iranian Saffron"
     },
     "publisher": {
         "@type": "Organization",
-        "name": "Ana Qayen Saffron",
-        "url": "https://anasaffron.com/"
+        "name": "Ana Qayen",
+        "url": "https://anasaffron.com"
     },
-    "reviewBody": "Ana Qayen is a premier supplier of Iranian saffron, offering high-quality saffron in various luxurious packaging. Their saffron, known for its rich color and aroma, is used in a wide range of culinary applications around the world. With a European quality certificate, Ana Qayen ensures the best saffron experience for both culinary professionals and enthusiasts.",
+    "reviewBody": "In this article, we will review some of saffron foods. If we want to list the foods, sweets and drinks in which the saffron is used, it may not be possible. However, a short list of foods, sweets and drinks can be brought. A handful of examples include the use of saffron as a spice in chicken kebab, as a colorant for meat dishes, as a coloring and flavoring in brewed rice like tah chin and Iranian saffron rice, as a coloring and decorating in sweets like really delicious desserts, as a coloring and flavoring in syrups and beverages, using saffron petals as a natural food coloring, and using petals to prepare jam (saffron jam).",
     "reviewRating": {
         "@type": "Rating",
         "ratingValue": null
-    },
-    "url": "https://anasaffron.com/saffron-foods/"
+    }
 }

@@ -1,15 +1,36 @@
 {
-    "@context": "https://schema.org",
+    "@context": "https://schema.org/",
     "@type": "Service",
-    "areaServed": "CA",
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingValue": "4.8",
+        "reviewCount": "100+"
+    },
+    "areaServed": [
+        {
+            "@type": "Country",
+            "name": "Canada"
+        }
+    ],
+    "audience": {
+        "@type": "Audience",
+        "audienceType": "Businesses and Individuals looking for PHP Development"
+    },
     "availableChannel": {
         "@type": "ServiceChannel",
-        "availableLanguage": [
-            "English"
-        ],
-        "servicePhone": null
+        "servicePhone": "+1(437)488-7337",
+        "servicePostalAddress": {
+            "@type": "PostalAddress",
+            "addressCountry": "CA",
+            "addressLocality": "Brampton",
+            "postalCode": "L6W 3W8",
+            "streetAddress": "2 County Court Blvd., Suite 400"
+        },
+        "serviceSmsNumber": "+1(437)488-7337",
+        "serviceUrl": "https://www.spaceo.ca/solutions/human-resource-management-system/"
     },
-    "description": "Consultation session, discuss your idea, get it validated, and start developing your next web solution. Hire Skilled PHP Developers. Follow 6 Simple Steps To Hire PHP Developers: Build your extended team for your PHP software development in just 24 hours.",
+    "category": "Web Development",
+    "description": "Need Experienced PHP Software Developers? Hire PHP software developers for your projects. With a free consultation session, discuss your idea, get it validated, and start developing your next web solution.",
     "hasOfferCatalog": {
         "@type": "OfferCatalog",
         "itemListElement": [
@@ -17,82 +38,61 @@
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "description": "Book your 30-mins free consultation through the contact us form."
+                    "name": "Custom PHP Development"
                 }
             },
             {
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "description": "We understand your idea, goals, and results you want to achieve."
+                    "name": "PHP Web Development"
                 }
             },
             {
                 "@type": "Offer",
                 "itemOffered": {
                     "@type": "Service",
-                    "description": "Screen the resumes of PHP developers based on the technical skills your project requires.",
-                    "name": "Resume Screening"
-                }
-            },
-            {
-                "@type": "Offer",
-                "itemOffered": {
-                    "@type": "Service",
-                    "description": "Take a technical interview with a web developer to know the communication skills, specific skills, gaps, and proficiencies.",
-                    "name": "Interview Team Members"
-                }
-            },
-            {
-                "@type": "Offer",
-                "itemOffered": {
-                    "@type": "Service",
-                    "description": "Discuss the payment structure, engagement model, and working hours with you. Then we sign an NDA to protect your idea and sensitive information.",
-                    "name": "Hiring & NDA Signing"
-                }
-            },
-            {
-                "@type": "Offer",
-                "itemOffered": {
-                    "@type": "Service",
-                    "description": "Conduct a meeting with the developers and allocate a project manager who will be in touch with you throughout the PHP development process.",
-                    "name": "PHP Development"
+                    "name": "PHP Software Development"
                 }
             }
         ],
         "name": "PHP Development Services"
     },
-    "image": [
-        "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7",
-        "https://www.spaceo.ca/wp-content/uploads/2021/12/ajax-loader.gif"
-    ],
-    "name": "PHP Development Services",
-    "privacyPolicy": "/privacy-policy/",
+    "image": [],
+    "name": "PHP Software Development",
+    "offers": {
+        "@type": "Offer",
+        "url": "https://www.spaceo.ca/hire/php-developers/"
+    },
     "provider": {
         "@type": "Organization",
         "contactPoint": {
             "@type": "ContactPoint",
             "areaServed": "CA",
             "availableLanguage": [
-                "English"
+                "English",
+                "French"
             ],
             "contactType": "customer service",
-            "telephone": null
+            "telephone": "+1(437)488-7337"
         },
         "name": "Space-O Technologies",
-        "sameAs": [],
-        "url": null
+        "url": "https://www.spaceo.ca"
     },
     "review": {
         "@type": "Review",
         "author": {
             "@type": "Person",
-            "description": "Space-O understood our expectations and were receptive to feedback. The team always resolved problems within 12 hours. The app earned positive feedback and a 400% increase in the number of user. Effective QA and QC made development seamless and efficient. The team was communicative and available on available to work on weekends as needed. Bug fixes were always completed within 12-hour time-frame.",
-            "name": "Ashish Fernandez"
+            "name": "Bashar Anabtawi"
+        },
+        "reviewBody": "I was mostly happy with the high level of experience and professionalism of the various teams that worked on my project. Not only they clearly understood my exact technical requirements but even suggested better ways in doing them.",
+        "reviewRating": {
+            "@type": "Rating",
+            "bestRating": "5",
+            "ratingValue": "5"
         }
     },
-    "serviceType": "Web Development",
-    "slogan": "Your Dream Project is Just a Click Away. Collaborate with the best in the industry.",
-    "termsOfService": "/terms-and-conditions/",
-    "url": null
+    "serviceType": "Software Development",
+    "slogan": "Your Dream Project is Just a Click Away",
+    "termsOfService": "https://www.spaceo.ca/terms-and-conditions/"
 }

@@ -1,65 +1,40 @@
 {
     "@context": "https://schema.org",
     "@type": "Organization",
-    "description": "Gameroco.com is a website that offers thousands of online games for free to game lovers. Gameroco.com is a game site that aims to have fun with the latest and popular games by constantly improving itself.",
-    "email": "support@gameroco.com",
-    "hasOfferCatalog": {
-        "@type": "OfferCatalog",
-        "itemListElement": [
-            {
-                "@type": "Offer",
-                "itemOffered": {
-                    "@type": "Game",
-                    "url": "https://www.gameroco.com/bleach-vs-naruto/"
-                }
-            }
-        ],
-        "name": "Online Games Catalog"
-    },
+    "description": "Gameroco.com is a website that offers thousands of online games for free to game lovers. It is a game site that aims to have fun with the latest and popular games by constantly improving itself.",
     "logo": "https://www.gameroco.com/uploads/logo.png",
-    "memberOf": {
-        "@type": "ProgramMembership",
-        "hostingOrganization": {
-            "@type": "Organization"
-        }
-    },
     "name": "Gameroco",
     "sameAs": [
         "https://www.caringgames.com",
         "https://www.narutovsbleach.com"
     ],
-    "slogan": "Gaming is easy with Gameroco.com",
     "subjectOf": [
         {
-            "@type": "Game",
+            "@type": "VideoGame",
             "url": "https://www.gameroco.com/fighting/bleach-vs-naruto-33.html"
         },
         {
-            "@type": "Game",
-            "url": "https://www.gameroco.com/fighting/bleach-vs-naruto-26.html"
-        },
-        {
-            "@type": "Game",
+            "@type": "VideoGame",
             "name": "Shell Shockers 2",
             "url": "https://www.gameroco.com/shooting/shell-shockers-2.html"
         },
         {
-            "@type": "Game",
+            "@type": "VideoGame",
             "name": "Bad Ice Cream 4",
             "url": "https://www.gameroco.com/arcade/bad-ice-cream-4.html"
         },
         {
-            "@type": "Game",
+            "@type": "VideoGame",
             "name": "Anime Battle 4.2",
             "url": "https://www.gameroco.com/fighting/anime-battle-42.html"
         },
         {
-            "@type": "Game",
+            "@type": "VideoGame",
             "name": "Anime Battle 4.3",
             "url": "https://www.gameroco.com/fighting/anime-battle-43.html"
         },
         {
-            "@type": "Game",
+            "@type": "VideoGame",
             "name": "Paper.io 3",
             "url": "https://www.gamerocco.com/arcade/paperio-3.html"
         }

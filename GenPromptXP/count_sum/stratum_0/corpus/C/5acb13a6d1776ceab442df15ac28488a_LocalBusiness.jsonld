@@ -1,36 +1,35 @@
 {
-	"@context": "https://schema.org",
-	"@type": "LocalBusiness",
-	"address": {
-		"@type": "PostalAddress",
-		"addressLocality": "Tracy",
-		"addressRegion": "CA",
-		"postalCode": "95304, 95376–95378, 95385, 95391",
-		"addressCountry": "US"
-	},
-	"areaServed": "Tracy, California",
-	"geo": {
-		"@type": "GeoCoordinates",
-		"latitude": "37.73806",
-		"longitude": "-121.43389"
-	},
-	"image": [
-		"//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tracy_Transit_Center_2290_01_%28cropped%29.JPG/149px-Tracy_Transit_Center_2290_01_%28cropped%29.JPG",
-		"//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tracy_City_Hall_Front.jpeg/149px-Tracy_City_Hall_Front.jpeg",
-		"//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Downtown_Tracy.jpeg/149px-Downtown_Tracy.jpeg",
-		"//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Downtown_Tracy_%28cropped%29.jpg/149px-Downtown_Tracy_%28cropped%29.jpg"
-	],
-	"name": "College Movers USA",
-	"openingHours": "Mo-Su 00:00-23:59",
-	"sameAs": [
-		"http://tracymovers.com"
-	],
-	"serviceType": [
-		"Commercial Moving",
-		"Residential Moving",
-		"Junk Time"
-	],
-	"slogan": "Making moving more professional, enjoyable, and pleasant.",
-	"telephone": "(650) 630-5881",
-	"url": "http://www.yelp.com/biz/college-movers-san-mateo-2"
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Tracy",
+        "addressRegion": "California",
+        "postalCode": "95304, 95376, 95377, 95378, 95385, 95391"
+    },
+    "areaServed": "Tracy, California",
+    "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": "37.73806",
+        "longitude": "-121.43389"
+    },
+    "hasMap": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/San_Joaquin_County_California_Incorporated_and_Unincorporated_areas_Tracy_Highlighted.svg/250px-San_Joaquin_County_California_Incorporated_and_Unincorporated_areas_Tracy_Highlighted.svg.png",
+    "image": [
+        "//upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Tracy_City_Hall_Front.jpeg/149px-Tracy_City_Hall_Front.jpeg",
+        "//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Downtown_Tracy_%28cropped%29.jpg/149px-Downtown_Tracy_%28cropped%29.jpg"
+    ],
+    "name": "College Movers USA",
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Organization",
+            "name": "College Movers USA"
+        },
+        "reviewBody": "Moving is always stressful. Happy to say we exist to make it stress-free and fun. Every city, including Tracy has its obstacles to manage but we have taken all the challenges out of those obstacles by respecting all city codes and enforcements."
+    },
+    "serviceArea": {
+        "@type": "City",
+        "name": "Tracy"
+    },
+    "telephone": "+1-650-630-5881"
 }
