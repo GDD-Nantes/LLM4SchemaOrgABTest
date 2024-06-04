@@ -7,13 +7,12 @@
     },
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingCount": 20,
-        "ratingValue": 4.7
+        "ratingCount": 20
     },
+    "description": "Your premium source for first class protocabulators",
     "image": "http://example.com/marketplace/sellerA.png",
     "interactionStatistic": {
         "@type": "InteractionCounter",
-        "interactionType": "https://schema.org/TradeAction",
         "userInteractionCount": 75
     },
     "logo": "http://example.com/marketplace/sellerA_logo.png",

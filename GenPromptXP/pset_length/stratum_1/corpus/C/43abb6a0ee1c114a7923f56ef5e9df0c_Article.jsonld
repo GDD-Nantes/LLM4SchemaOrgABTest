@@ -1,11 +1,6 @@
 {
     "@context": "https://schema.org",
     "@type": "Article",
-    "articleSection": [
-        "Erkrankungen des Herzens",
-        "Erkrankungen der Nieren",
-        "Erkrankungen des Gehirns"
-    ],
     "author": {
         "@type": "Person",
         "name": "Fernarzt Team",
@@ -13,18 +8,8 @@
     },
     "dateModified": "2021-09-07",
     "datePublished": "2020-05-20",
+    "description": "Bluthochdruck wird auch als Hypertonie bezeichnet. Der Begriff setzt sich zusammen aus den altgriechischen W\u00f6rtern hyper (\u00fcber) und tonos (Spannung).",
     "headline": "Bluthochdruck (Hypertonie): Ursachen, Risiken, Diagnose & Behandlung",
-    "image": "data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==",
-    "keywords": [
-        "Bluthochdruck",
-        "Hypertonie",
-        "Blutdruck",
-        "Gef\u00e4\u00dfe",
-        "Nieren",
-        "Gehirn",
-        "Augen",
-        "Behandlung"
-    ],
     "mainEntityOfPage": "https://www.fernarzt.com/krankheiten/bluthochdruck/",
     "publisher": {
         "@type": "Organization",

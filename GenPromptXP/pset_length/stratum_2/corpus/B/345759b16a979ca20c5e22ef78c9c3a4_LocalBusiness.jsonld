@@ -13,12 +13,10 @@
         "ratingValue": "4",
         "reviewCount": "250"
     },
-    "openingHours": [],
-    "priceRange": "$$",
-    "servesCuisine": [
-        "Middle Eastern",
-        "Mediterranean"
+    "openingHours": [
+        "Fr-Sa 17:00-22:00"
     ],
+    "priceRange": "$$",
     "telephone": "(408) 714-1489",
     "url": "http://www.signaturefitnessnj.com"
 }

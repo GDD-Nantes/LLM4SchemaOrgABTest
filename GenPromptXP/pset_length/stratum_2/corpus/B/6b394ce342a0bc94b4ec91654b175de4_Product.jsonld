@@ -6,16 +6,21 @@
         "@type": "AggregateRating",
         "ratingValue": "3.5"
     },
+    "description": "M\u00e1y in m\u00e3 v\u1ea1ch Xprinter XP-DT108B",
     "image": "https://bigbuy.vn/images/thumbnails/285/285/detailed/15/XP-DT108B_bigbuy__3_.jpg",
+    "name": "M\u00e1y in m\u00e3 v\u1ea1ch Xprinter XP-DT108B",
     "offers": {
         "@type": "Offer",
-        "availability": "https://schema.org/InStock"
+        "availability": "https://schema.org/InStock",
+        "price": "1980000",
+        "priceCurrency": "VND"
     },
     "review": [
         {
             "@type": "Review",
             "author": "Ellie",
             "datePublished": "2011-04-01",
+            "name": "Not a happy camper",
             "reviewBody": "The lamp burned out and now I have to replace it.",
             "reviewRating": {
                 "@type": "Rating",

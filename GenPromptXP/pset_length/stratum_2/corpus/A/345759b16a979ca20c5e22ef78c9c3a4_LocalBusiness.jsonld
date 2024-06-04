@@ -20,11 +20,11 @@
             "latitude": "40.7970535"
         },
         "hasMap": "https://www.google.com/maps/place/Signature+Fitness+Clubs/@40.7970535,-74.1465446,15z/data=!4m5!3m4!1s0x0:0x6051ba399c3042bc!8m2!3d40.7970535!4d-74.1465446",
+        "image": "https://www.signaturefitnessnj.com/wp-content/uploads/2019/05/SF_logo_white_background.png",
         "logo": {
             "@type": "ImageObject",
             "height": 300,
-            "url": "https://www.replacethiswithyourdomainname.com/wp-content/uploads/2017/01/logo.png",
-            "width": 613
+            "url": "https://www.replacethiswithyourdomainname.com/wp-content/uploads/2017/01/logo.png"
         },
         "openingHoursSpecification": {
             "@type": "OpeningHoursSpecification",
@@ -37,7 +37,8 @@
                 "Wednesday",
                 "Tuesday",
                 "Thursday"
-            ]
+            ],
+            "opens": "00:00"
         },
         "sameAs": [
             "https://www.instagram.com/Signaturefitnessnj/"

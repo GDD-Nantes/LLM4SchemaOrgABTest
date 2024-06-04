@@ -29,7 +29,8 @@
                 "@type": "OpeningHoursSpecification",
                 "closes": "15:00",
                 "dayOfWeek": "Friday",
-                "name": "Horario Apertura Centro Kyushu"
+                "name": "Horario Apertura Centro Kyushu",
+                "opens": "10:00"
             },
             {
                 "@type": "OpeningHoursSpecification",
@@ -38,12 +39,12 @@
                     "Tuesday",
                     "Monday"
                 ],
-                "name": "Horario Apertura Centro Kyushu"
+                "name": "Horario Apertura Centro Kyushu",
+                "opens": "10:00"
             }
         ],
         "sameAs": [
-            "https://www.facebook.com/centrokyushu/",
-            "https://maps.google.com/maps?cid=ChIJT48s6qcgbQ0RnTAAO1-innU"
+            "https://www.facebook.com/centrokyushu/"
         ],
         "telephone": "0034957450804",
         "url": "https://www.centrokyushu.com"

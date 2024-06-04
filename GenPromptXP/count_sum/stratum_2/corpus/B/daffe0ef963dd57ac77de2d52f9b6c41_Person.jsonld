@@ -5,10 +5,6 @@
     "applicationStartDate": "2019-09-01",
     "description": "A university program with a fixed application window and maximum enrollment.",
     "educationalProgramMode": "full-time",
-    "maximumEnrollment": 100,
     "name": "ACME University Basketweaving Program",
-    "numberOfCredits": 32,
-    "termDuration": "P4M",
-    "termsPerYear": 2,
-    "typicalCreditsPerTerm": 4
+    "termDuration": "P4M"
 }

@@ -14,7 +14,8 @@
             "@type": "Organization",
             "logo": {
                 "@type": "ImageObject"
-            }
+            },
+            "name": ""
         }
     },
     {
@@ -22,7 +23,8 @@
         "@type": "Article",
         "about": [
             {
-                "@type": "MedicalCondition"
+                "@type": "MedicalCondition",
+                "name": "Karotisstenose"
             },
             {
                 "@type": "MedicalCondition",
@@ -41,7 +43,8 @@
                 "name": "Schwindel"
             },
             {
-                "@type": "MedicalSymptom"
+                "@type": "MedicalSymptom",
+                "name": "Ohrensausen"
             },
             {
                 "@type": "MedicalCondition",
@@ -56,7 +59,8 @@
                 "name": "Kopfschmerzen"
             },
             {
-                "@type": "MedicalCondition"
+                "@type": "MedicalCondition",
+                "name": "Herz-Kreislauf-Erkrankungen"
             },
             {
                 "@type": "MedicalCondition",

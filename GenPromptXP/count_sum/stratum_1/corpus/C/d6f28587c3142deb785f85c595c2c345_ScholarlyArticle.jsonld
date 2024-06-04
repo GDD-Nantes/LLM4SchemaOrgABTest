@@ -2,13 +2,15 @@
     "@context": "https://schema.org",
     "@type": "ScholarlyArticle",
     "about": {
-        "@type": "Thing"
+        "@type": "Thing",
+        "name": "100% leven; levenslessen van honderdplussers"
     },
     "author": {
         "@type": "Person",
         "name": "Joris Slaets"
     },
     "datePublished": "2019-09-06",
+    "description": "Een opvallend boek met een knalgroene kaft, op mooi papier gedrukt met vele, paginagrote portretfoto\u2019s. Een frisse verschijning over het wel en wee van honderdplussers in onze samenleving.",
     "identifier": "978 90 8850 857 8",
     "image": "https://gerontijdschrift.nl/wp-content/uploads/sites/3/2019/09/Boekbespreking-Witter-omslag-213x300.jpg",
     "isPartOf": {
@@ -16,17 +18,17 @@
         "isPartOf": {
             "@type": "PublicationVolume",
             "name": "Geron",
-            "publisher": "Uitgeverij SWP",
             "volumeNumber": "21"
         },
         "issueNumber": "2"
     },
     "keywords": "Honderdplussers, Levenservaring, Portretten, Verhalen",
+    "name": "Boekbespreking: Geluk en verdriet horen bij 100% leven",
     "pageEnd": "72",
     "pageStart": "1",
     "publisher": {
         "@type": "Organization",
-        "name": "Uitgeverij SWP"
+        "name": null
     },
     "url": "https://gerontijdschrift.nl/artikelen/boekbespreking-geluk-en-verdriet-horen-bij-100-leven/",
     "wordCount": "500"

@@ -18,8 +18,7 @@
                         "name": "Northern Kentucky University"
                     }
                 },
-                "credentialCategory": "degree",
-                "educationalLevel": "Bachelor of Science"
+                "credentialCategory": "degree"
             },
             {
                 "@type": "EducationalOccupationalCredential",
@@ -30,8 +29,7 @@
                         "name": "Northern Kentucky University"
                     }
                 },
-                "credentialCategory": "degree",
-                "educationalLevel": "Masters of Science in Clinical Mental Health Counseling"
+                "credentialCategory": "degree"
             }
         ],
         "hasOccupation": {
@@ -40,13 +38,11 @@
             "qualifications": [
                 {
                     "@type": "EducationalOccupationalCredential",
-                    "credentialCategory": "degree",
-                    "educationalLevel": "M.S."
+                    "credentialCategory": "degree"
                 },
                 {
                     "@type": "EducationalOccupationalCredential",
-                    "credentialCategory": "degree",
-                    "educationalLevel": "B.S."
+                    "credentialCategory": "degree"
                 }
             ]
         },
