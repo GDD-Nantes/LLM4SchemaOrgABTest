@@ -1,0 +1,24 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "children": {
+            "@type": "Person",
+            "name": "Cynthia Albrecht "
+        },
+        "name": "Gary Paul Albrecht",
+        "parent": [
+            {
+                "@type": "Person",
+                "name": "Clarence Albrecht (deceased)"
+            },
+            {
+                "@type": "Person"
+            }
+        ],
+        "spouse": {
+            "@type": "Person",
+            "name": "Maureen (Bond) Albrecht (deceased)"
+        }
+    }
+]

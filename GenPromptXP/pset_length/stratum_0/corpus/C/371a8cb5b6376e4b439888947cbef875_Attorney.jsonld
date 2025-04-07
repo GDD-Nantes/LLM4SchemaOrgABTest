@@ -1,0 +1,40 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Attorney",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "DE",
+        "addressLocality": "L\u00fcbeck",
+        "postalCode": "23556",
+        "streetAddress": "Vierh\u00f6rn 2"
+    },
+    "areaServed": [
+        "L\u00fcbeck"
+    ],
+    "description": "Die Rechtsanwaltskanzlei Schmedemann steht f\u00fcr die kompetente Beratung insbesondere von mittelst\u00e4ndischen Unternehmen und Freiberuflern sowie Projektgesellschaften im Bereich der Erneuerbaren Energien.",
+    "email": "info@schmedemann-ra.de",
+    "faxNumber": "0451 - 29 26 6 - 29",
+    "founder": {
+        "@type": "Person",
+        "name": "Dr. Jens-Uwe Schmedemann"
+    },
+    "image": [
+        "https://www.schmedemann-ra.de/sites/default/files/styles/adaptive/public/images/1/rechtsanwalt-jens-uwe-schmedemann.jpg?itok=VUdzM4Ge"
+    ],
+    "legalName": "Dr. Jens-Uwe Schmedemann",
+    "logo": "https://www.schmedemann-ra.de/sites/all/themes/custom/logo-rechtsanwalt-schmedemann.gif",
+    "name": "Schmedemann Rechtsanw\u00e4lte",
+    "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "description": "Ein Rechtsanwalt sowie vier Mitarbeiter/innen",
+        "value": 5
+    },
+    "specialOpeningHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "description": "Not specified, but personal consultations are available upon request."
+        }
+    ],
+    "telephone": "0451 - 29 26 6 - 0",
+    "url": "https://www.schmedemann-ra.de"
+}

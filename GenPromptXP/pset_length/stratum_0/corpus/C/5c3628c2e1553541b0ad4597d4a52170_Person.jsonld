@@ -37,5 +37,10 @@
         "url": "https://web.de/magazine/autor/"
     },
     "name": "Andreas Reiners",
-    "url": "https://web.de/magazine/autor/"
+    "url": "https://web.de/magazine/autor/",
+    "workLocation": {
+        "@type": "Organization",
+        "name": "WEB.DE, GMX und 1&1",
+        "url": "https://web.de/"
+    }
 }

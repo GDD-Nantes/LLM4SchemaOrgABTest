@@ -1,0 +1,16 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "affiliation": {
+        "@type": "Organization",
+        "name": "DIM"
+    },
+    "contactPoint": {
+        "@type": "ContactPoint"
+    },
+    "memberOf": {
+        "@type": "Organization",
+        "name": "CEC"
+    },
+    "url": "/"
+}

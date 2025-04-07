@@ -32,7 +32,6 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "Soup(er) Bowl Show",
                 "url": "http://www.example.com/tv/martha/season-7/episode-183-souper-bowl-show"
             },
             {
@@ -113,7 +112,6 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "Jesse Tyler Ferguson Does Thanksgiving",
                 "url": "http://www.example.com/tv/martha/season-7/episode-163-jesse-tyler-ferguson-does-thanksgiving"
             },
             {
@@ -215,7 +213,6 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "Mother's Day Show",
                 "url": "http://www.example.com/tv/martha/season-7/episode-140-mothers-day-show"
             },
             {
@@ -260,7 +257,6 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "James Beard Award-Winning Chefs",
                 "url": "http://www.example.com/tv/martha/season-7/episode-130-james-beard-award-winning-chefs"
             },
             {
@@ -301,7 +297,6 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "Easy Passover Recipes",
                 "url": "http://www.example.com/tv/martha/season-7/episode-121-easy-passover-recipes"
             },
             {
@@ -345,7 +340,6 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "Fresh, Seasonal Recipes",
                 "url": "http://www.example.com/tv/martha/season-7/episode-111-fresh-seasonal-recipes"
             },
             {
@@ -401,12 +395,10 @@
             },
             {
                 "@type": "TVEpisode",
-                "name": "20 More Things to Know: Cleaning",
                 "url": "http://www.example.com/tv/martha/season-7/episode-99-20-more-things-to-know-cleaning"
             },
             {
-                "@type": "TVEpisode",
-                "name": "20 More Things to Know: Homekeeping"
+                "@type": "TVEpisode"
             },
             {
                 "@type": "TVEpisode",

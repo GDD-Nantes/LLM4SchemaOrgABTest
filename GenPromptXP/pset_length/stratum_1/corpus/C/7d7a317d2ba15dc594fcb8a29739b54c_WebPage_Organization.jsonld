@@ -4,7 +4,32 @@
         "WebPage",
         "Organization"
     ],
+    "areaServed": "Portland",
+    "contactPoint": {
+        "@type": "ContactPoint",
+        "contactType": "campaign",
+        "url": "http://juliabrimedwardsportlandschools.com/contact-us/"
+    },
+    "description": "Julia Brim-Edwards is the leader we need in these times. She brings committed and experienced leadership to the Portland School Board and will listen to and work with students, parents, and staff, help us navigate through the Covid pandemic challenges, and support the equitable success of Portland students. She is independent, student-focused and accountable. That\u2019s exactly what we need right now!",
+    "event": [
+        {
+            "@type": "Event",
+            "name": "Climate Strike",
+            "url": "http://juliabrimedwardsportlandschools.com/climate-action/"
+        }
+    ],
+    "image": "http://www.juliaforportlandschoolboard.com/wp-content/uploads/2020/08/Updated-Logo.png",
+    "logo": null,
+    "member": [
+        {
+            "@type": "Person",
+            "jobTitle": "Portland School Board Member",
+            "name": "Julia Brim-Edwards"
+        }
+    ],
     "name": "Julia Brim-Edwards | Portland School Board",
+    "sameAs": [],
+    "slogan": "The Leader We Need for These Times",
     "subjectOf": [
         {
             "@type": "NewsArticle",

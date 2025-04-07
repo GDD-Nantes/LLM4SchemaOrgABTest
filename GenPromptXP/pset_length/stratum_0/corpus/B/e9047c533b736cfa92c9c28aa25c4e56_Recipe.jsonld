@@ -1,0 +1,21 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Recipe",
+    "author": "Chef Nils Hoyum",
+    "description": "Pork shoulder steaks come in a couple of varieties. There are shoulder arm steaks and shoulder blade steaks. I believe these are shoulder blade steaks, or close to it. These steaks were simply labeled 'shoulder steaks,' so who really knows. The pig came from my brother's farm in Pipestone, MN. It was free-range, happy, healthy, and well cared for, which is how I want my meat to be raised. Don't you?",
+    "image": "https://howtocookmeat.com/wp-content/uploads/2018/05/header-90-768x512.jpg",
+    "name": "Pan-Fried Pork Shoulder Steaks",
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "carbohydrateContent": null,
+        "saturatedFatContent": "10 g",
+        "servingSize": "4 oz",
+        "sugarContent": null
+    },
+    "recipeCategory": "Entree",
+    "recipeIngredient": [
+        "2\u20124 pork shoulder steaks",
+        "Vegetable oil"
+    ],
+    "recipeYield": "2"
+}

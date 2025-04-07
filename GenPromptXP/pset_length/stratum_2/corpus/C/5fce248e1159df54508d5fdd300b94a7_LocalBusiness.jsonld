@@ -1,0 +1,52 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "LocalBusiness",
+    "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "itemListElement": [
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service",
+                    "name": "Moisture analysis"
+                }
+            },
+            {
+                "@type": "Offer",
+                "itemOffered": {
+                    "@type": "Service"
+                }
+            }
+        ]
+    },
+    "name": "Mold Inspection Temple",
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "opens": "00:00"
+        }
+    ],
+    "serviceArea": {
+        "@type": "City",
+        "name": "Temple TX"
+    },
+    "telephone": "(254) 265-7559"
+}

@@ -1,0 +1,59 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ProfessionalService",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Morehead City",
+        "addressRegion": "NC"
+    },
+    "description": "Channel Marker Media Web Development offers professional website development, custom solutions, and one-on-one consultation. They also provide search marketing services, web hosting with personalized local support, and custom application development. Contact them for a free consultation.",
+    "email": "info@channelmarkermedia.com",
+    "hasMap": "https://www.channelmarkermedia.com/map",
+    "hasPOS": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Morehead City",
+            "addressRegion": "NC"
+        },
+        "description": "Channel Marker Media Web Development offers professional website development, custom solutions, and one-on-one consultation. They also provide search marketing services, web hosting with personalized local support, and custom application development. Contact them for a free consultation.",
+        "hasMap": "https://www.channelmarkermedia.com/map",
+        "name": "Channel Marker Media Web Development",
+        "openingHoursSpecification": [
+            {
+                "@type": "OpeningHoursSpecification",
+                "closes": "17:00",
+                "dayOfWeek": [
+                    "Monday",
+                    "Tuesday",
+                    "Wednesday",
+                    "Thursday",
+                    "Friday"
+                ],
+                "opens": "09:00"
+            }
+        ],
+        "slogan": "A Decade of Building Great Websites",
+        "telephone": "(252) 499-0102",
+        "url": "https://www.channelmarkermedia.com/"
+    },
+    "logo": "https://www.channelmarkermedia.com/wp-content/uploads/2016/11/logo_white2.png",
+    "name": "Channel Marker Media Web Development",
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "closes": "17:00",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday"
+            ],
+            "opens": "09:00"
+        }
+    ],
+    "slogan": "A Decade of Building Great Websites",
+    "telephone": "(252) 499-0102",
+    "url": "https://www.channelmarkermedia.com/"
+}

@@ -9,6 +9,7 @@
             "postalCode": "44120",
             "streetAddress": "3676 Rolliston Road"
         },
+        "description": "Beds:4 Baths:2.1 Sq. Feet:1,844 Days on Market:53",
         "floorSize": {
             "@type": "QuantitativeValue",
             "value": "1844"

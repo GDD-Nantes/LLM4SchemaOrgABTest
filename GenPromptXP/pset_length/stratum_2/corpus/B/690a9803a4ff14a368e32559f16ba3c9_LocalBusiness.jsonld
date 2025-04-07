@@ -3,6 +3,7 @@
     "@type": "LocalBusiness",
     "address": {
         "@type": "PostalAddress",
+        "addressCountry": "ESPA\u00d1A",
         "addressLocality": "C\u00f3rdoba",
         "postalCode": "14005"
     },
@@ -13,21 +14,24 @@
     },
     "image": "https://www.centrokyushu.com/wp-content/uploads/2021/07/logo_kyushu_nuevo_980.png",
     "name": "Centro Kyushu",
-    "openingHours": [
-        "Mo-Sa 09:00-20:00"
-    ],
+    "openingHours": [],
     "priceRange": "$$",
     "review": {
         "@type": "Review",
         "author": "roberta",
         "datePublished": "2017-08-22",
-        "description": "quisiera me manden info a mi correo",
         "reviewRating": {
             "@type": "Rating",
             "bestRating": "5",
             "ratingValue": "4"
         }
     },
+    "servesCuisine": [
+        "Medicina Tradicional China",
+        "Moxibusti\u00f3n",
+        "Fitoterapia china",
+        "Dietoterapia china"
+    ],
     "telephone": "+34 957 45 08 04",
     "url": "https://www.centrokyushu.com"
 }

@@ -3,6 +3,7 @@
     "@type": "LocalBusiness",
     "address": {
         "@type": "PostalAddress",
+        "addressCountry": "ESPA\u00d1A",
         "addressLocality": "C\u00f3rdoba",
         "postalCode": "14005",
         "streetAddress": "Pasaje Jos\u00e9 Flores C\u00e1mara 4"
@@ -11,10 +12,8 @@
     "email": "pilar@centrokyushu.com",
     "image": [
         "https://www.centrokyushu.com/wp-content/uploads/2021/07/logo-kyushu-web-512x124-1.png",
-        "https://www.centrokyushu.com/wp-content/uploads/2015/09/c7dcf87a-9a20-4062-a7c3-b85f23cfb975.jpg",
-        "https://www.centrokyushu.com/wp-content/uploads/2021/07/logo_kyushu_nuevo_980.png"
+        "https://www.centrokyushu.com/wp-content/uploads/2015/09/c7dcf87a-9a20-4062-a7c3-b85f23cfb975.jpg"
     ],
-    "logo": "https://www.centrokyushu.com/wp-content/uploads/2021/07/logo_kyushu_nuevo_980.png",
     "name": "Centro Kyushu",
     "sameAs": [
         "https://www.facebook.com/centrokyushu"

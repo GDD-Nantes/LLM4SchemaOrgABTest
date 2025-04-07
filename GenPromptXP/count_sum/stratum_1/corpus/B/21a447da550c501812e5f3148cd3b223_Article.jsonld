@@ -12,14 +12,17 @@
         "@type": "Person",
         "name": "Thomas Kane"
     },
+    "commentCount": 0,
     "description": "Museums across the world \u2014 along with artists everywhere \u2014 have had a rough 12 months, from the Louvre in Paris to the Hamburger Kunstalle in Hamburg to the Washington National Gallery.",
     "image": [
         {
             "@type": "ImageObject",
+            "height": 630,
             "url": "https://thomaskanechicago.com/wp-content/uploads/2021/06/celebrating-americas-museums-with-bank-of-america.jpg",
             "width": 1200
         }
     ],
+    "isAccessibleForFree": true,
     "isBasedOnUrl": null,
     "keywords": "museums, Bank of America, art, donations, support",
     "mainEntity": {
@@ -54,7 +57,8 @@
     "speakable": {
         "@type": "SpeakableSpecification",
         "xpath": [
-            "/html/head/title"
+            "/html/head/title",
+            "/html/head/meta[@name='description']/@content"
         ]
     },
     "url": null

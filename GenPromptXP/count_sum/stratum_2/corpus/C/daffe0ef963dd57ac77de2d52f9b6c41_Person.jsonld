@@ -4,6 +4,12 @@
     "alumniOf": [
         {
             "@type": "CollegeOrUniversity",
+            "degree": [
+                {
+                    "name": "Bachelor of Science in Psychology with a Minor in Counseling & Human Services"
+                },
+                {}
+            ],
             "name": "Northern Kentucky University"
         }
     ],
@@ -14,6 +20,7 @@
         "Persecutory Delusions: Definition, Examples, & Treatments",
         "Identity Crisis: Signs, Symptoms, & Treatments",
         "Cognitive Restructuring: How It Works, Tips, & Effectiveness",
+        "Anthropophobia (Fear of People): Symptoms, Treatments, & How to Cope",
         "Eco Anxiety: What It Is & How to Deal With It",
         "Body-Focused Repetitive Behaviors (BFRBs): Definition, Symptoms, & Types",
         "Passive Suicidal Ideation: Definition, Treatments, & How to Get Help",

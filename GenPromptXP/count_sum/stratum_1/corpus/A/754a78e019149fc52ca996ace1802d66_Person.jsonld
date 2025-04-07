@@ -1,0 +1,18 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Person",
+        "alternateName": "SY",
+        "homeLocation": {
+            "@type": "Place",
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": "Wellington"
+            }
+        },
+        "image": {
+            "@type": "ImageObject"
+        },
+        "name": "Shi Ying Chen [SY]"
+    }
+]

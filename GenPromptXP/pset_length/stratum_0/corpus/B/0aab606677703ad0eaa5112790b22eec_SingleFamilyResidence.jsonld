@@ -4,11 +4,12 @@
     "additionalProperty": [
         {
             "@type": "PropertyValue",
-            "name": "Basement"
+            "name": "Basement",
+            "value": "Partial"
         },
         {
             "@type": "PropertyValue",
-            "name": "Cooling"
+            "value": "None"
         },
         {
             "@type": "PropertyValue",
@@ -17,7 +18,7 @@
         },
         {
             "@type": "PropertyValue",
-            "name": "Heating"
+            "value": "Forced Air, Gas"
         },
         {
             "@type": "PropertyValue",
@@ -26,11 +27,12 @@
         },
         {
             "@type": "PropertyValue",
-            "name": "Lot Size"
+            "value": "0.20 Acres"
         },
         {
             "@type": "PropertyValue",
-            "name": "Roof Type"
+            "name": "Roof Type",
+            "value": "Asphalt, Fiberglass"
         },
         {
             "@type": "PropertyValue",
@@ -39,13 +41,13 @@
         },
         {
             "@type": "PropertyValue",
-            "name": "Taxes"
+            "name": "Taxes",
+            "value": "/ year"
         }
     ],
     "address": {
         "@type": "PostalAddress",
         "addressLocality": "Shaker Heights",
-        "addressRegion": "OH",
         "postalCode": "44120",
         "streetAddress": "3676 Rolliston Road"
     },
@@ -60,6 +62,7 @@
     "name": "3676 Rolliston Road",
     "numberOfBathroomsTotal": 3,
     "numberOfBedrooms": 4,
+    "price": "$229,000",
     "tourBookingPage": "https://mls.ricohtours.com/134473f7-2e70-431b-bde6-b90182600a06",
     "yearBuilt": 1938
 }

@@ -4,22 +4,27 @@
     "actor": [
         {
             "@type": "Person",
+            "characterName": "Horatio Caine",
             "name": "David Caruso"
         },
         {
             "@type": "Person",
+            "characterName": "Calleigh Duquesne",
             "name": "Emily Procter"
         },
         {
             "@type": "Person",
+            "characterName": "Eric Delko",
             "name": "Adam Rodriguez"
         },
         {
             "@type": "Person",
+            "characterName": "Natalia Boa Vista",
             "name": "Eva LaRue"
         },
         {
             "@type": "Person",
+            "characterName": "Ryan Wolfe",
             "name": "Jonathan Togo"
         }
     ],
@@ -28,9 +33,11 @@
         "@type": "Person",
         "name": "Gina Lamar"
     },
+    "episodeNumber": 22,
     "partOfSeason": {
         "@type": "TVSeason",
         "name": "Les experts : Miami - Saison 7",
+        "seasonNumber": 7,
         "url": "https://livetv.telesat.be/streaming/les-experts-miami/saison-7/"
     },
     "partOfSeries": {
@@ -38,29 +45,34 @@
         "actor": [
             {
                 "@type": "Person",
+                "characterName": "Horatio Caine",
                 "name": "David Caruso"
             },
             {
                 "@type": "Person",
+                "characterName": "Calleigh Duquesne",
                 "name": "Emily Procter"
             },
             {
                 "@type": "Person",
+                "characterName": "Eric Delko",
                 "name": "Adam Rodriguez"
             },
             {
                 "@type": "Person",
+                "characterName": "Natalia Boa Vista",
                 "name": "Eva LaRue"
             },
             {
                 "@type": "Person",
+                "characterName": "Ryan Wolfe",
                 "name": "Jonathan Togo"
             }
         ],
-        "description": "La police scientifique de Miami, le CSI, a fort a faire ! Specialisee dans les enquetes criminelles ou les disparitions, ses membres sont tous d'eminents scientifiques qui s'appuient sur leurs connaissances en biologie, balistique, l'analyse des empreintes digitales ou encore des explosifs. Leur chef, Horatio Caine, une forte personnalite, est egalement specialise dans les affaires de deminage et d'incendies. Qu'il s'agisse du meurtre d'une famille entiere, de la disparition d'etudiants ou de poseurs de bombes, l'equipe soudee travaille toujours d'arrache-pied. Declinee en 10 saisons, cette efficace serie a re\u00e7u un Emmy Award en 2003. Differents cross-over furent tournes avec 'Les Experts : Las Vegas' ou encore 'Les Experts : Manhattan'.",
         "genre": [
             "Crime",
-            "Action"
+            "Action",
+            "Drame"
         ],
         "name": "Les experts : Miami",
         "url": "https://livetv.telesat.be/streaming/les-experts-miami/"

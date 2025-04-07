@@ -1,0 +1,30 @@
+{
+    "@context": "https://schema.org/",
+    "@type": "Person",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Wellington"
+    },
+    "memberOf": [
+        {
+            "@type": "Organization",
+            "name": "JTTP 2010 \u2014 Audio works"
+        }
+    ],
+    "name": "Shi Ying Chen [SY]",
+    "worksFor": [
+        {
+            "@type": "Organization",
+            "url": "https://sonus.ca"
+        },
+        {
+            "@type": "Organization",
+            "name": "CEC",
+            "url": "https://cec.sonus.ca"
+        },
+        {
+            "@type": "Organization",
+            "url": "https://econtact.ca"
+        }
+    ]
+}

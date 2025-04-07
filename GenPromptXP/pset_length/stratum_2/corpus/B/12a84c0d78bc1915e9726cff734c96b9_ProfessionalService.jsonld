@@ -1,0 +1,21 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ProfessionalService",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Orpington",
+        "postalCode": "BR6 8ED",
+        "streetAddress": "9 Grange Rd"
+    },
+    "description": "Digital Marketing Agency",
+    "email": "info@bluesquaremanagement.com",
+    "logo": "https://staging.bluesquaremanagement.com/wp-content/uploads/2019/06/Digital-Marketing-Agency-London-Kent-Blue-Square-Management-500x125-1.jpg",
+    "name": "Blue Square Management",
+    "openingHours": "Mo-Fr 09:00-17:00",
+    "sameAs": [
+        "https://twitter.com/BlueSquareSEO",
+        "https://vimeo.com/bluesquaremanagement"
+    ],
+    "telephone": "+44(0)1689 602 248",
+    "url": "https://staging.bluesquaremanagement.com"
+}

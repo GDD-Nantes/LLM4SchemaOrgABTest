@@ -1,0 +1,41 @@
+{
+    "@context": "http://schema.org",
+    "@type": "Attorney",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "L\u00fcbeck",
+        "postalCode": "23556",
+        "streetAddress": "Vierh\u00f6rn 2"
+    },
+    "description": "Berufskompetenz mit Tradition und Zukunft: Ihr Rechtsanwalt in L\u00fcbeck",
+    "email": "info@schmedemann-ra.de",
+    "faxNumber": "0451 - 29 26 6 - 29",
+    "hasMap": {
+        "@type": "Map"
+    },
+    "image": "https://www.schmedemann-ra.de/sites/all/themes/custom/logo-rechtsanwalt-schmedemann.gif",
+    "name": "Rechtsanwalt Kanzlei Schmedemann",
+    "openingHoursSpecification": [
+        {
+            "@type": "OpeningHoursSpecification",
+            "dayOfWeek": [
+                "Monday",
+                "Tuesday",
+                "Wednesday"
+            ],
+            "opens": "09:00"
+        }
+    ],
+    "review": {
+        "@type": "Review",
+        "author": {
+            "@type": "Person"
+        },
+        "reviewBody": "Great service! Highly recommended.",
+        "reviewRating": {
+            "@type": "Rating"
+        }
+    },
+    "telephone": "0451 - 29 26 6 - 0",
+    "url": "https://www.schmedemann-ra.de"
+}

@@ -31,7 +31,14 @@
             "productReturnLink": "https://www.no-gods-no-masters.com/blog/faq/returns-or-exchanges/"
         },
         "image": "https://www.no-gods-no-masters.com/template/ngnm4/opengraph_ngnm4.png",
-        "knowsLanguage": null,
+        "inLanguage": "en",
+        "keyword": [
+            "Ethical Clothing",
+            "Ecological",
+            "No Gods No masters",
+            "Activist T-shirts"
+        ],
+        "knowsLanguage": "en",
         "legalName": "No Gods No Masters",
         "logo": "https://www.no-gods-no-masters.com/images/logo_ngnm4.png",
         "name": "No Gods No Masters",
@@ -40,6 +47,7 @@
             "name": null,
             "url": "https://www.no-gods-no-masters.com"
         },
+        "paymentAccepted": "Paypal, Credit Card, Cash",
         "sameAs": [
             "https://www.flickr.com/photos/139257438@N06/",
             "https://www.instagram.com/no_gods_no_masters_coop/",
@@ -48,6 +56,7 @@
             "https://www.facebook.com/No.Gods.No.Masters",
             "https://www.pinterest.com/ngnm_tshirts/"
         ],
+        "subOrganization": [],
         "url": "https://www.no-gods-no-masters.com"
     }
 ]

@@ -4,6 +4,12 @@
         "WebPage",
         "Organization"
     ],
+    "description": "Julia Brim-Edwards is the leader we need in these times. She brings committed and experienced leadership to the Portland School Board and will listen to and work with students, parents, and staff, help us navigate through the Covid pandemic challenges, and support the equitable success of Portland students. She is independent, student-focused and accountable. That\u2019s exactly what we need right now!",
+    "image": "http://www.juliaforportlandschoolboard.com/wp-content/uploads/2020/08/Updated-Logo.png",
     "name": "Julia Brim-Edwards | Portland School Board",
+    "publisher": {
+        "@type": "Organization"
+    },
+    "sameAs": null,
     "url": "http://juliabrimedwardsportlandschools.com/"
 }

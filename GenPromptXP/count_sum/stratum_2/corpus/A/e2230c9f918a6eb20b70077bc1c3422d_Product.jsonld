@@ -1,0 +1,19 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "bestRating": 5,
+            "ratingValue": "4",
+            "reviewCount": 1
+        },
+        "category": [
+            "Professional/Baths/Bathing Accessories",
+            "Professional/Around the Salon/Salon Accessories"
+        ],
+        "image": "https://www.groomers-online.com/images/groom-x-industrial-suction-cup-p15949-10465_image.jpg",
+        "name": "Groom-X Groom-X Industrial Suction Cup",
+        "url": "https://www.groomers-online.com/groom-x-industrial-suction-cup-p15949"
+    }
+]

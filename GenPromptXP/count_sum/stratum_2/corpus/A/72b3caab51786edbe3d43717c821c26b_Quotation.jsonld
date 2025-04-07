@@ -1,0 +1,11 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Quotation",
+        "spokenByCharacter": {
+            "@type": "Person",
+            "name": "Richard Laymon"
+        },
+        "text": "Horror writers are specialists in the worst-case scenario."
+    }
+]

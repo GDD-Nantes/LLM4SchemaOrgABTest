@@ -3,7 +3,8 @@
     "@type": "Service",
     "aggregateRating": {
         "@type": "AggregateRating",
-        "ratingValue": "4.8"
+        "ratingValue": "4.8",
+        "reviewCount": "100+"
     },
     "areaServed": [
         {
@@ -12,7 +13,8 @@
         }
     ],
     "audience": {
-        "@type": "Audience"
+        "@type": "Audience",
+        "audienceType": "Businesses and Individuals looking for PHP Development"
     },
     "availableChannel": {
         "@type": "ServiceChannel",
@@ -56,6 +58,7 @@
         ],
         "name": "PHP Development Services"
     },
+    "image": [],
     "name": "PHP Software Development",
     "offers": {
         "@type": "Offer",

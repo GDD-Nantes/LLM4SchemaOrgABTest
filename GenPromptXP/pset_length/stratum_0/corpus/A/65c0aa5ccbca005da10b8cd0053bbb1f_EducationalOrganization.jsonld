@@ -1,0 +1,18 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "EducationalOrganization",
+        "mainEntityOfPage": "https://towersofexcellence.org/",
+        "name": null,
+        "url": "https://towersofexcellence.org"
+    },
+    {
+        "@context": "http://schema.org",
+        "@type": "EducationalOrganization",
+        "name": null,
+        "sameAs": [
+            "https://www.linkedin.com/company/the-sharon-cooperative-school/"
+        ],
+        "url": "https://towersofexcellence.org"
+    }
+]

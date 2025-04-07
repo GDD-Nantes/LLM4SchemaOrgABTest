@@ -3,29 +3,30 @@
         "@context": "http://schema.org",
         "@type": "Product",
         "additionalType": [
-            "http://www.productontology.org/id/Barcode_printer",
-            "http://www.productontology.org/id/Label_printer"
+            "http://www.productontology.org/id/Barcode_printer"
         ],
         "aggregateRating": {
-            "@type": "AggregateRating"
+            "@type": "AggregateRating",
+            "ratingCount": "11"
         },
         "alternateName": [
             "m\u00e1y in m\u00e3 v\u1ea1ch gi\u00e1 r\u1ebb nh\u1ea5t",
             "mua m\u00e1y in m\u00e3 v\u1ea1ch",
             "b\u00e1n m\u00e1y in m\u00e3 v\u1ea1ch",
             "m\u00e1y in tem m\u00e3 v\u1ea1ch",
-            "m\u00e1y in tem nh\u00e3n m\u00e3 v\u1ea1ch",
             "m\u00e1y in m\u00e3 v\u1ea1ch m\u00e0u",
-            "m\u00e1y in m\u00e3 v\u1ea1ch gi\u00e1 r\u1ebb",
             "gi\u00e1 m\u00e1y in m\u00e3 v\u1ea1ch"
         ],
+        "category": "https://bigbuy.vn",
         "description": "M\u00e1y in m\u00e3 v\u1ea1ch r\u1ea5t c\u1ea7n thi\u1ebft cho kinh doanh, y t\u1ebf, chuy\u1ec3n ph\u00e1t. BIGBUY b\u00e1n m\u00e1y in m\u00e3 v\u1ea1ch gi\u00e1 r\u1ebb ch\u00ednh h\u00e3ng t\u1eeb Zebra, TSC, Xprinter, Brother.",
         "disambiguatingDescription": "M\u00e1y in m\u00e3 v\u1ea1ch r\u1ea5t c\u1ea7n thi\u1ebft cho kinh doanh, y t\u1ebf hay chuy\u1ec3n ph\u00e1t. BIGBUY \u0111ang b\u00e1n m\u00e1y in m\u00e3 v\u1ea1ch gi\u00e1 r\u1ebb ch\u00ednh h\u00e3ng t\u1eeb Zebra, TSC, Xprinter, Brother,...",
         "image": "https://bigbuy.vn/images/companies/1/Danh%20muc/may-in-ma-vach-gia-re.jpg?1584936479166",
         "isRelatedTo": [
-            "https://bigbuy.vn/may-quet-ma-vach/#category",
-            "https://bigbuy.vn/can-dien-tu/#category"
+            "https://bigbuy.vn/may-tinh-tien/#category",
+            "https://bigbuy.vn/thiet-bi-van-phong/#category",
+            "https://bigbuy.vn/thiet-bi-khac/#category"
         ],
+        "isSimilarTo": [],
         "logo": {
             "@type": "ImageObject",
             "name": "BIGBUY",
@@ -37,26 +38,29 @@
             "@type": "AggregateOffer",
             "availability": "https://schema.org/InStock",
             "itemCondition": "https://schema.org/NewCondition",
-            "lowPrice": "1550000",
             "offerCount": "50",
-            "priceCurrency": "VND"
+            "priceValidUntil": "December 31, 2020"
         },
         "potentialAction": {
             "@type": "BuyAction",
             "description": "\u0110\u1eb7t h\u00e0ng mua m\u00e1y in m\u00e3 v\u1ea1ch tr\u1ef1c tuy\u1ebfn t\u1ea1i website bigbuy.vn",
-            "name": "\u0110\u1eb7t H\u00e0ng",
+            "instrument": [],
             "priceSpecification": {
                 "@type": "PriceSpecification",
-                "name": "Gi\u00e1 m\u00e1y in m\u00e3 v\u1ea1ch",
                 "price": "5000000",
-                "priceCurrency": "VND",
+                "validFrom": "2019-12-22T17:00:00.000Z",
+                "validThrough": "2020-03-12T17:00:00.000Z",
                 "valueAddedTaxIncluded": "Yes"
             },
             "url": null
         },
         "sameAs": [
+            "https://meta.vn/may-in-ma-vach-c698",
+            "https://www.hanoicomputer.vn/may-in-ma-vach-tem-nhan/c421.html",
             "https://www.wikidata.org/wiki/Q4346060",
             "https://en.wikipedia.org/wiki/Label_printer",
+            "https://thegioimavach.com/may-in-ma-vach",
+            "https://www.anphatpc.com.vn/may-in-ma-vach_dm1235.html",
             "https://www.wikidata.org/wiki/Q1945572"
         ],
         "url": "https://bigbuy.vn/may-in-ma-vach/"

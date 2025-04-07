@@ -1,0 +1,26 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Restaurant",
+        "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Saugus",
+            "postalCode": "01906",
+            "streetAddress": " 312 Central St, Saugus, MA 01906"
+        },
+        "aggregateRating": {
+            "@type": "AggregateRating",
+            "ratingValue": 5
+        },
+        "email": "info@saugushousepizzama.com",
+        "image": "https://www.saugushousepizzama.com/files/images/header-bg.jpg",
+        "logo": "https://www.saugushousepizzama.com/files/images/logo.png",
+        "name": "Saugus House of Pizza",
+        "servesCuisine": [
+            "Pizza",
+            "salads",
+            "calzone"
+        ],
+        "telephone": "+1-781-233-8211"
+    }
+]

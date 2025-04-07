@@ -1,0 +1,14 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": [
+            "Event",
+            "WebPage"
+        ],
+        "image": {
+            "@type": "ImageObject",
+            "url": "https://bahrain.fitnessfirstme.com/sites/bh/files/styles/d02_square/public/2020-10/ff_aipwep.jpg?h=4beff8be&itok=7oMR9HMf"
+        },
+        "url": "https://bahrain.fitnessfirstme.com/events/sponsored-events/awareness-power"
+    }
+]

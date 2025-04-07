@@ -16,8 +16,7 @@
         },
         "foundingDate": "2019-05-15",
         "location": {
-            "@type": "PostalAddress",
-            "addressCountry": "TR"
+            "@type": "PostalAddress"
         },
         "logo": "https://www.gameroco.com/uploads/logo.png",
         "name": "Game Roco",

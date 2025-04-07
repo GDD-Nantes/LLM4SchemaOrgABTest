@@ -14,7 +14,13 @@
         "availableChannel": {
             "@type": "ServiceChannel",
             "serviceLocation": {
-                "@type": "Place"
+                "@type": "Place",
+                "address": {
+                    "sameAs": [
+                        "https://www.wikidata.org/wiki/Special:EntityPage/Q44198"
+                    ],
+                    "streetAddress": "2 County Court Blvd., Suite 400"
+                }
             },
             "servicePhone": {
                 "@type": "ContactPoint",
@@ -24,12 +30,23 @@
         },
         "category": "Business & Industrial",
         "description": "Want to hire PHP developers in Canada? Looking for a flexible hiring model? Save time and cost by hiring experienced and dedicated PHP developers from Space-O.",
+        "name": "Are you planning to hire PHP developers for your project? Hire the best remote PHP programmers who are well-versed in using Laravel, CodeIgniter, Yii, MVC Framework Architecture, and MySQL. Whether it is code-fixing or building an enterprise-level application, get a robust, scalable, and feature-rich application within a fixed time and budget. Get in touch with us to hire experienced PHP developers.",
         "provider": {
             "@type": "Organization",
             "additionalType": [
                 "http://www.productontology.org/id/Company",
                 "http://www.productontology.org/id/Software_development"
             ],
+            "address": {
+                "@type": "PostalAddress",
+                "addressLocality": null,
+                "addressRegion": null,
+                "postalCode": null,
+                "sameAs": [
+                    "https://www.wikidata.org/wiki/Q44198"
+                ],
+                "streetAddress": "2 County Court Blvd., Suite 400"
+            },
             "alternateName": [
                 "Space-O development company CA",
                 "Space-O Software Development Company Canada",
@@ -37,7 +54,7 @@
             ],
             "areaServed": {
                 "@type": "Country",
-                "name": "Canada",
+                "name": null,
                 "sameAs": [
                     "https://www.google.com/search?kponly&kgmid=/m/0d060g"
                 ]
@@ -47,16 +64,17 @@
                 "@type": "Person",
                 "birthPlace": {
                     "@type": "Place",
-                    "name": "Brampton",
+                    "name": null,
                     "sameAs": [
-                        "https://en.wikipedia.org/wiki/Brampton",
                         "https://www.wikidata.org/wiki/Q44198"
                     ]
                 },
+                "jobTitle": "CEO & Founder of Space-O Technologies",
                 "knowsAbout": [
                     {
                         "@type": "Thing",
-                        "name": "Android software development"
+                        "name": "Android software development",
+                        "sameAs": []
                     },
                     {
                         "@type": "Thing",
@@ -81,19 +99,22 @@
                         ]
                     }
                 ],
+                "knowsLanguage": [],
                 "memberOf": [
                     {
                         "@type": "Organization",
-                        "name": "Institute of Electrical and Electronics Engineers"
+                        "name": "Institute of Electrical and Electronics Engineers",
+                        "sameAs": []
                     },
                     {
-                        "@type": "Organization"
+                        "@type": "Organization",
+                        "sameAs": []
                     }
                 ],
                 "name": "Rakesh Patel "
             },
             "image": "https://www.spaceo.ca/wp-content/uploads/2021/07/space-o-new-logo.png",
-            "knowsLanguage": null,
+            "knowsLanguage": [],
             "logo": "https://www.spaceo.ca/wp-content/uploads/2020/06/spaceo-canada-logo1.png",
             "name": "Space-O Technologies - Software Development Company in Canada",
             "sameAs": [
@@ -109,8 +130,7 @@
             "@type": "Thing",
             "name": [
                 "hire PHP programmers",
-                "hire PHP developers",
-                "hire dedicated PHP developers"
+                "hire PHP developers"
             ]
         },
         "url": null

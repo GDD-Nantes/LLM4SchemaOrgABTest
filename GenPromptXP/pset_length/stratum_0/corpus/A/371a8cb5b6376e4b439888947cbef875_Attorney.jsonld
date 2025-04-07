@@ -1,0 +1,9 @@
+[
+    {
+        "@context": "http://schema.org",
+        "@type": "Attorney",
+        "legalName": "Dr. Jens Schmedemann",
+        "name": "Rechtsanwalt Kanzlei Schmedemann",
+        "url": "https://www.schmedemann-ra.de/"
+    }
+]

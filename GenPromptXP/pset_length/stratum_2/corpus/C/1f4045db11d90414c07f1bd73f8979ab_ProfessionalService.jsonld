@@ -1,0 +1,24 @@
+{
+    "@context": "http://schema.org",
+    "@type": "ProfessionalService",
+    "address": {
+        "@type": "PostalAddress",
+        "addressCountry": "USA",
+        "addressLocality": "Morehead City",
+        "addressRegion": "NC"
+    },
+    "description": "A Decade of Building Great Websites. Professional Website Development, Custom Solutions, One-on-one Consultation. Specializing in Website Design & Development, Search Marketing, Web Hosting, and Custom Application Development.",
+    "email": "info@channelmarkermedia.com",
+    "image": [
+        "https://www.channelmarkermedia.com/wp-content/uploads/2016/11/logo_white2.png",
+        "https://www.channelmarkermedia.com/wp-content/uploads/2016/10/logo_text_200w.png"
+    ],
+    "logo": "https://www.channelmarkermedia.com/wp-content/uploads/2016/11/logo_white2.png",
+    "name": "Channel Marker Media Web Development",
+    "serviceArea": {
+        "@type": "AdministrativeArea",
+        "name": "Morehead City, NC"
+    },
+    "telephone": "252-499-0102",
+    "url": "https://www.channelmarkermedia.com/"
+}
